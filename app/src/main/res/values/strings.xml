@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WiFi Signal Strength</string>
+    <string name="not_scanned_yet">No WiFi Scans Yet...</string>
+    <string name="no_ap_available">No WiFi APs available nearby</string>
+    <string name="turn_on_wifi">Please turn on WiFi</string>
+    <string name="turn_on_location">Please turn on Location</string>
+    <string name="last_updated">Last updated : %1$s</string>
+    <string name="scan_button">Scan</string>
+    <string name="ap_detail">%1$s %2$ddB %3$s</string>
+</resources>
